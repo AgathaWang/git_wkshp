@@ -1,10 +1,10 @@
 MEMBER_1 = "Peiyan"
 MEMBER_2 = "Jing"
-MEMBER_3 = "Ramon"
+MEMBER_3 = "Wan-Ting"
 
 MEMBER_1_HOME = "China"
 MEMBER_2_HOME = "Beijing, China"
-MEMBER_3_HOME = "Monterrey, Mexico"
+MEMBER_3_HOME = "Taipei, Taiwan"
 
 MEMBERS = {
     MEMBER_1:MEMBER_1_HOME,
