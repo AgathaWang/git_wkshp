@@ -1,5 +1,5 @@
 MEMBER_1 = "Peiyan"
-MEMBER_2 = "Jing"
+MEMBER_2 = "Git Octopus"
 MEMBER_3 = "Wan-Ting"
 
 MEMBER_1_HOME = "China"
