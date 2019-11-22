@@ -1,5 +1,7 @@
 MEMBER_1 = "Peiyan"
-MEMBER_2 = "change to peiyan"
+
+MEMBER_2 = "Jing"
+
 MEMBER_3 = "Wan-Ting"
 
 MEMBER_1_HOME = "China"
